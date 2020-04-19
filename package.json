@@ -33,6 +33,6 @@
   },
   "devDependencies": {
     "react-app-rewired": "^2.1.5",
-    "webpack-route-manifest": "^1.1.0"
+    "webpack-route-manifest": "^1.2.0"
   }
 }
