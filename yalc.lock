@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "quicklink": {
+      "signature": "0e4f154f6f57816abca4d7b878391f28",
+      "file": true
+    }
+  }
+}
