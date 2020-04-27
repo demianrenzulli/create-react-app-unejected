@@ -7,7 +7,7 @@
 ## Installation
 
 ```sh
-git clone https://github.com/demianrenzulli/create-react-app-unejected-quicklink.git
+git clone https://github.com/demianrenzulli/create-react-app-unejected.git
 ```
 
 Or
