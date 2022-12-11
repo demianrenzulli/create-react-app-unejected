@@ -7932,9 +7932,9 @@ qs@6.7.0:
   integrity sha512-VCdBRNFTX1fyE7Nb6FYoURo/SPe62QCaAyzJvUjwRaIsc+NePBEniHlvxFmmX56+HZphIGtV0XeCirBtpDrTyQ==
 
 qs@~6.5.2:
-  version "6.5.2"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
-  integrity sha512-N5ZAX4/LxJmF+7wN74pUD6qAh9/wnvdQcjq9TZjevvXzSUo7bfmw91saqMjzGS2xq91/odN2dW/WOl7qQHNDGA==
+  version "6.5.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.3.tgz#3aeeffc91967ef6e35c0e488ef46fb296ab76aad"
+  integrity sha512-qxXIEh4pCGfHICj1mAJQ2/2XVZkjCDTcEgfoSQxc/fYivUZxTkk7L3bDBJSoNrEzXI17oUO5Dp07ktqE5KzczA==
 
 query-string@^4.1.0:
   version "4.3.4"
@@ -8547,11 +8547,6 @@ ripemd160@^2.0.0, ripemd160@^2.0.1:
   dependencies:
     hash-base "^3.0.0"
     inherits "^2.0.1"
-
-route-sort@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/route-sort/-/route-sort-1.0.0.tgz#078149c8d2d2de8b8563adf139ec58476835c94b"
-  integrity sha512-SFgmvjoIhp5S4iBEDW3XnbT+7PRuZ55oRuNjY+CDB1SGZkyCG9bqQ3/dhaZTctTBYMAvDxd2Uy9dStuaUfgJqQ==
 
 rsvp@^4.8.4:
   version "4.8.5"
@@ -9893,13 +9888,6 @@ webpack-manifest-plugin@2.1.1:
     lodash ">=3.5 <5"
     object.entries "^1.1.0"
     tapable "^1.0.0"
-
-webpack-route-manifest@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/webpack-route-manifest/-/webpack-route-manifest-1.2.0.tgz#ade58d48594f067a6f82aa9a5d639007e75d6ae1"
-  integrity sha512-JzWnMEzrioenlM38p7OuOWIr1xjQQpeAI/ktb0ZNYv/s5507JHmkYS6YzZsOpYhqqanN/keGAYD/JT/zLMs+LA==
-  dependencies:
-    route-sort "^1.0.0"
 
 webpack-sources@^1.1.0, webpack-sources@^1.4.0, webpack-sources@^1.4.1:
   version "1.4.3"
